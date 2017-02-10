@@ -33,7 +33,7 @@ hr{margin:0;padding:0;border:0;color:#000;background-color:#000;height:1px}
 [data-money-format] small{font-size:80%;}
 ::-moz-selection{background:#11a9f7;color:#fff;}
 ::selection {background:#11a9f7;color:#fff;}
-/*IE10È¡Ïûinput¿òÄ¬ÈÏµÄ²æ²æºÍÃÜÂëÊäÈë¿òµÄÑÛ¾¦*/
+/*IE10È¡ï¿½ï¿½inputï¿½ï¿½Ä¬ï¿½ÏµÄ²ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Û¾ï¿½*/
 ::-ms-clear{display:none;}
 ::-ms-reveal{display:none;}
 /*-- fixclear --*/
@@ -41,3 +41,7 @@ hr{margin:0;padding:0;border:0;color:#000;background-color:#000;height:1px}
 .fix{display:inline-block;}
 * html .fix{height:1%;}
 .fix{display:block;}
+
+
+.nav{position: fixed;background-image: url(../imges/bg.png);width: 400px;height: 100%;background-size:100% 100%;}
+.main{margin-left: 400px;height: 100%;width: 1520px;}
